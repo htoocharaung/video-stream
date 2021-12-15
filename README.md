@@ -1,4 +1,5 @@
-<p align="center"><a href="https://t.me/VeezVideoBot"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
+<h3> This is a forked version. Source can be found <span><a href="https://github.com/levina-lab/video-stream"/> here</a>.<h3>
+<p align="center"><a href="https://t.me/eka_hc"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"</p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
